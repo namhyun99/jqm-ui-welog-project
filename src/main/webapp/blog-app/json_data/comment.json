@@ -1,0 +1,83 @@
+[
+	{
+		"cidx": "1",
+		"imgurl" : "../blog-app/images/profile/lee1.png",
+		"writer": "lee1",
+		"date" :"2022년 7월 19일",
+		"comment": "유용한 글 감사합니다🧑‍💻",
+		"idx": "2"
+	},
+	{
+		"cidx": "2",
+		"imgurl" : "../blog-app/images/profile/park1.png",
+		"writer": "park1",
+		"date" :"2022년 7월 4일",
+		"comment": "너무 유용하네요!! 감사합니다 ",
+		"idx": "2"
+	},
+	{
+		"cidx": "3",
+		"imgurl" : "../blog-app/images/profile/park2.png",
+		"writer": "park2",
+		"date" :"2022년 7월 25일",
+		"comment": "좋은 정보 감사합니다!",
+		"idx": "1"
+	},
+	{
+		"cidx": "4",
+		"imgurl" : "../blog-app/images/profile/lee3.png",
+		"writer": "lee3",
+		"date" :"2022년 7월 18일",
+		"comment": "안그래도 볼께 없었는데 오늘 바로 볼께요😁",
+		"idx": "1"
+	},
+	{
+		"cidx": "5",
+		"imgurl" : "../blog-app/images/profile/lee2.png",
+		"writer": "lee2",
+		"date" :"2022년 7월 14일",
+		"comment": "오오 티빙에 볼께 많군요. 감사합니다 ",
+		"idx": "1"
+	},
+	{
+		"cidx": "6",
+		"imgurl" : "../blog-app/images/profile/kim2.png",
+		"writer": "kim2",
+		"date" :"2022년 7월 2일",
+		"comment": "글 잘보고 갑니다!",
+		"idx": "1"
+	},
+	{
+		"cidx": "7",
+		"imgurl" : "../blog-app/images/profile/kim1.png",
+		"writer": "kim1",
+		"date" :"2022년 7월 1일",
+		"comment": "스우파 오늘 봅니다!",
+		"idx": "1"
+	},
+	{
+		"cidx": "8",
+		"imgurl" : "../blog-app/images/profile/kim2.png",
+		"writer": "kim2",
+		"date" :"2020년 11월 29일",
+		"comment": "감사합니다!",
+		"idx": "3"
+	},
+	{
+		"cidx": "9",
+		"imgurl" : "../blog-app/images/profile/lee3.png",
+		"writer": "lee3",
+		"date" :"2020년 12월 3일",
+		"comment": "잘읽었습니다 감사합니다.",
+		"idx": "3"
+	},
+	{
+		"cidx": "9",
+		"imgurl" : "../blog-app/images/profile/park1.png",
+		"writer": "park1",
+		"date" :"2021년 10월 23일",
+		"comment": "올려주셔서 감사합니다 :)",
+		"idx": "3"
+	}
+	
+]
