@@ -1,4 +1,4 @@
-# Welog
+## jqm-ui-welog-project
 - jQuery Mobile을 활용한 웹앱제작
 
 ## 개발환경 및 개발툴
@@ -18,6 +18,6 @@
 - html편집기 적용
 
 
-### 메인화면 미리보기
+## 화면미리보기
 
 <img src="https://user-images.githubusercontent.com/99003162/184900871-e7546b43-98a0-44fe-bb18-43a7ed80c1ac.jpg">
